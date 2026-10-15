@@ -1,0 +1,25 @@
+# Glossary
+
+- **Anomaly:** observation that differs from a learned or expected baseline; not necessarily malicious.
+- **Alert:** a record asking for investigation or action.
+- **Allowlist:** entities that must not be blocked by an automated workflow without special authorization.
+- **Audit trail:** time-ordered records of events and decisions.
+- **Baseline:** reference data representing expected behavior.
+- **Contextual bandit:** learning setup that selects an action from context and receives feedback, usually without modeling long transitions.
+- **False negative (FN):** malicious event not detected.
+- **False positive (FP):** benign event incorrectly flagged.
+- **Feature:** numeric or categorical representation used by a model.
+- **Human-in-the-loop:** a person reviews or authorizes a system decision.
+- **Isolation Forest:** tree-based anomaly detection algorithm that isolates observations using random splits.
+- **Model drift:** change in input patterns or relationship between inputs and outcomes over time.
+- **Policy:** mapping from observed context to an action or recommendation.
+- **Precision:** fraction of positive predictions that are truly positive.
+- **Recall:** fraction of known positives detected.
+- **Reinforcement learning (RL):** learning to select actions to maximize expected cumulative reward from interaction with an environment.
+- **Reward function:** definition of what outcomes the learning process should favor or penalize.
+- **Role-based access control (RBAC):** permissions assigned by role.
+- **Shadow mode:** system scores events and creates reports without applying enforcement actions.
+- **SIEM:** security information and event management platform.
+- **TTL:** time to live; an expiry duration for a temporary record or block.
+- **True positive (TP):** malicious event correctly detected.
+- **True negative (TN):** benign event correctly left unflagged.

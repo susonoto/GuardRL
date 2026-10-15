@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/blocks.json
+data/audit.jsonl
+data/alerts.jsonl
